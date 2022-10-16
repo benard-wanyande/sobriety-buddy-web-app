@@ -1,2 +1,2 @@
-#Sobriety App 
-##Can't be bothered to write a proper readme at the moment
+# Sobriety App 
+## Absolutely cannot be bothered to write a proper readme at the moment
